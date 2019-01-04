@@ -17,6 +17,12 @@
   },
   "homepage": "https://github.com/estanie/cs496_02_server#readme",
   "dependencies": {
-    "express": "^4.16.4"
+    "body-parser": "^1.18.3",
+    "connect": "^3.6.6",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.4",
+    "fs": "0.0.1-security",
+    "mongoose": "^5.4.1",
+    "multer": "^1.4.1"
   }
 }
